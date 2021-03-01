@@ -40,7 +40,7 @@ while not 0<=x<=1:
 
 options=Options()
 options.add_argument('--incognito')
-#options.add_argument('--headless')
+options.add_argument('--headless')
 
 driver = webdriver.Chrome(options=options)
 driver.maximize_window()
