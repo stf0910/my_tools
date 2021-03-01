@@ -26,7 +26,7 @@ login_url = 'https://login.yahoo.co.jp/'
 img_url = 'https://search.yahoo.co.jp/image'
 serch_config ='https://search.yahoo.co.jp/search/preferences?pref_done=https%3A%2F%2Fsearch.yahoo.co.jp%2Fimage'
 
-IMAGE_DIR = './images/'
+IMAGE_DIR = '/images/'
 
 x = 1
 
